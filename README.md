@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @The-Cyber-Punk
+- 👀 I’m interested in coding and all things Cyberpunk
+- 🌱 I’m currently learning JavaScript, and brushing up on HTML and CSS. I also want to learn a Python framework for web dev.
